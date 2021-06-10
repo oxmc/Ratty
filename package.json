@@ -1,7 +1,7 @@
 {
-  "name": "pi-ware-bot",
+  "name": "Ratty",
   "version": "1.0.0",
-  "description": "A bot for the pi-ware discord server.",
+  "description": "A bot for rat._.king._ discord server.",
   "main": "Main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,18 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oxmc/pi-ware-bot.git"
+    "url": "git+https://github.com/oxmc/Ratty.git"
   },
   "keywords": [
-    "Discordjs",
-    "pi-ware"
+    "Discordjs"
   ],
   "author": "oxmc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oxmc/pi-ware-bot/issues"
+    "url": "https://github.com/oxmc/Ratty/issues"
   },
-  "homepage": "https://github.com/oxmc/pi-ware-bot#readme",
+  "homepage": "https://github.com/oxmc/Ratty#readme",
   "dependencies": {
     "canvas": "^2.8.0",
     "discord-rpc": "^3.2.0",
